@@ -32,6 +32,8 @@
     "@nuxtjs/markdownit": "^1.2.9",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "@nuxtjs/style-resources": "^1.0.0",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.21.2",
     "fast-glob": "^3.2.2",
     "nuxt": "^2.13.3",
     "nuxt-property-decorator": "^2.7.2",
