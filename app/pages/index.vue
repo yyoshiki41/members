@@ -27,15 +27,15 @@
             />
           </div>
 
-          <a href="/blog">
-            <button
-              type="button"
-              class="btn btn-primary btn-block mt-4"
-              :disable="form.email === '' || form.password === ''"
-            >
-              ログイン
-            </button>
-          </a>
+          <b-button
+            type="button"
+            variant="primary"
+            class="btn btn-primary btn-block mt-4"
+            :disabled="form.email === '' || form.password === ''"
+            href="/blog"
+          >
+            ログイン
+          </b-button>
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">

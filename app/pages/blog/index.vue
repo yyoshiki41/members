@@ -1,7 +1,7 @@
 <template>
   <section class="blog">
-    <div class="py-8 md:py-16 text-center">
-      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">Blog</h1>
+    <div class="py-4 md:py-6 text-center">
+      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">NEWS</h1>
       <h2 class="text-base md:text-lg lg:text-xl xl:text-2xl">
         人生を豊かにする「ヒト・モノ・コト」を発見！
       </h2>

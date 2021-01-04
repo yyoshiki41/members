@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| 会員サイト",
-  "welcomeText": "# サイトタイトル | 高所得者向けのお得な情報",
+  "welcomeText": "# サイトタイトル </br> 高所得者向け情報をお届け",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
